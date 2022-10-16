@@ -1,2 +1,2 @@
-# 6.8371-digital-and-computational-photography
-6.8371-digital-and-computational-photography
+# 6.8371 Digital and Computational Photography Fall 2022
+
